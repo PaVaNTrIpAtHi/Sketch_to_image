@@ -1,0 +1,2 @@
+# Sketch_to_image
+How many of us loved watching the show “Shaka Laka Bom Bom”. The magic pencil with him. Whatever thing the boy drew turned into a real thing. We will do something like that but in a virtual mode. We trained the machine to identify the sketches of airplane, ant, apple, axe, banana, bed, bench, bicycle, book and bus. You draw a sketch like one of these objects and our program will return the prediction along with the real world photo of the same object. 
